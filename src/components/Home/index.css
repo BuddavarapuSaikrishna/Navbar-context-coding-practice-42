@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.home-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-img {
+  width: 200px;
+  height: 200px;
+}
+
+.LightTheme {
+  background-color: #ffffff;
+}
+
+.DarkTheme {
+  background-color: #000000;
+}
+
+.light-text-color {
+  color: #ffffff;
+}
+
+.dark-text-color {
+  color: #000000;
+}
